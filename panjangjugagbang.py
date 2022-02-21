@@ -1,8 +1,4 @@
-# Nama file : TugasPertemuan12.py
-# Pembuat : Ananda Rizky Pratama
-# NIM : 24060121140118
-# Tanggal :  5 Desember 2021
-# Deskripsi : Tugas pertemuan 12 mengerjakan soal UAS tahun 2020
+
 
 # Nomor 1
 # a.
