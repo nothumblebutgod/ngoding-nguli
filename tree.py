@@ -1,8 +1,3 @@
-# Nama file : tree.py
-# Pembuat : Ananda Rizky Pratama
-# NIM : 24060121140118
-# Tanggal :  25 November 2021
-# Deskripsi : Membuat berbagai macam fungsi yang berhubungan dengan tree
 
 # Modul Umum
 def is_empty(S):
